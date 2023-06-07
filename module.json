@@ -5,8 +5,7 @@
 	"version": "1.0.2",
 	"compatibility": {
 		"minimum": 10,
-		"verified": 10,
-		"maximum": 10
+		"verified": 10
 	},
 	"authors": [
 		{
@@ -56,7 +55,7 @@
 	"bugs": "https://github.com/mouse0270/lib-themer/issues",
 	"media": [],
 	"flags": {
-		"allowBugReporter": true, 
+		"allowBugReporter": true,
 		"attributions": "https://github.com/mouse0270/lib-themer/blob/master/ATTRIBUTIONS.md"
 	}
 }
