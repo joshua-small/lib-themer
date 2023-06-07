@@ -1,61 +1,58 @@
 {
-	"id": "lib-themer",
-	"title": "lib Themer",
-	"description": "One stop shop for styling Foundry",
-	"version": "1.0.2",
-	"compatibility": {
-		"minimum": 10,
-		"verified": 10
-	},
-	"authors": [
-		{
-			"name": "Mouse0270",
-			"url": "https://github.com/mouse0270/lib-themer",
-			"email": "rmcintosh@websitesbyfatdudes.com",
-			"discord": "Mouse0270#0270",
-
-			"flags": {
-				"twitter": "Mouse0270",
-				"patreon": "Mouse0270",
-				"github": "Mouse0270",
-				"ko-fi": "Mouse0270",
-				"reddit": "u/Mouse0270"
-			}
-		}
-	],
-
-	"library": true,
-	"socket": false,
-
-	"relationships": {
-		"systems": [],
-		"requires": [],
-		"conflicts": []
-	},
-	"esmodules": [
-        "/scripts/init.mjs"
-	],
-	"scripts": [],
-	"styles": [
-        "/styles/module.css"
-	],
-	"languages": [
-		{
-			"lang": "en",
-			"name": "English",
-			"path": "languages/en.json"
-		}
-	],
-	"url": "This is auto replaced",
-	"manifest": "This is auto replaced",
-	"download": "This is auto replaced",
-	"readme": "https://github.com/mouse0270/lib-themer/blob/master/README.md",
-	"changelog": "https://github.com/mouse0270/lib-themer/blob/master/CHANGELOG.md",
-	"license": "https://github.com/mouse0270/lib-themer/blob/master/LICENSE",
-	"bugs": "https://github.com/mouse0270/lib-themer/issues",
-	"media": [],
-	"flags": {
-		"allowBugReporter": true,
-		"attributions": "https://github.com/mouse0270/lib-themer/blob/master/ATTRIBUTIONS.md"
-	}
+  "id": "lib-themer",
+  "title": "lib Themer",
+  "description": "One stop shop for styling Foundry",
+  "version": "1.0.6",
+  "compatibility": {
+      "minimum": 10,
+      "verified": 10
+  },
+  "authors": [
+      {
+          "name": "Mouse0270",
+          "url": "https://github.com/mouse0270/lib-themer",
+          "email": "rmcintosh@websitesbyfatdudes.com",
+          "discord": "Mouse0270#0270",
+          "flags": {
+              "twitter": "Mouse0270",
+              "patreon": "Mouse0270",
+              "github": "Mouse0270",
+              "ko-fi": "Mouse0270",
+              "reddit": "u/Mouse0270"
+          }
+      }
+  ],
+  "library": true,
+  "socket": false,
+  "relationships": {
+      "systems": [],
+      "requires": [],
+      "conflicts": []
+  },
+  "esmodules": [
+      "/scripts/init.mjs"
+  ],
+  "scripts": [],
+  "styles": [
+      "/styles/module.css"
+  ],
+  "languages": [
+      {
+          "lang": "en",
+          "name": "English",
+          "path": "languages/en.json"
+      }
+  ],
+  "url": "https://github.com/mouse0270/lib-themer",
+  "manifest": "https://github.com/mouse0270/lib-themer/releases/latest/download/module.json",
+  "download": "https://github.com/mouse0270/lib-themer/releases/download/1.0.6/module.zip",
+  "readme": "https://github.com/mouse0270/lib-themer/blob/master/README.md",
+  "changelog": "https://github.com/mouse0270/lib-themer/blob/master/CHANGELOG.md",
+  "license": "https://github.com/mouse0270/lib-themer/blob/master/LICENSE",
+  "bugs": "https://github.com/mouse0270/lib-themer/issues",
+  "media": [],
+  "flags": {
+      "allowBugReporter": true,
+      "attributions": "https://github.com/mouse0270/lib-themer/blob/master/ATTRIBUTIONS.md"
+  }
 }
